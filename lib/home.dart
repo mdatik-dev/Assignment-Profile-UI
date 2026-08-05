@@ -39,7 +39,7 @@ class HomePage extends StatelessWidget {
                     const SizedBox(height: 15),
 
                     const Text(
-                      "MD Atikur Rahman",
+                      "Md Atikur Rahman",
                       style: TextStyle(
                         fontSize: 28,
                         fontWeight: FontWeight.bold,
@@ -94,10 +94,7 @@ class HomePage extends StatelessWidget {
 
                         SizedBox(width: 12),
 
-                        Text(
-                          "+880 17369 38452",
-                          style: TextStyle(fontSize: 15),
-                        ),
+                        Text("+8801736938452", style: TextStyle(fontSize: 15)),
                       ],
                     ),
 
